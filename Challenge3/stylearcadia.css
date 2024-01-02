@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Prata&display=swap');
+
+
+#mybody{margin:0;
+    font-family: 'Montserrat', sans-serif;}
+ 
+ .myp{font-weight: 600;
+     font-style: italic;}
+ 
+ .main-section{padding:20px}
+ 
+ .image-container{min-height:500px; 
+     background-image: url(https://img.freepik.com/free-photo/tranquil-scene-dusk-reflection-tree-pond-generated-by-ai_24640-100027.jpg?w=1380&t=st=1704198609~exp=1704199209~hmac=a7f6ef1ef7c158b4eb83e0ac1374707d345bf39347347223c4cf0b14c375bc05);
+     background-size: 100%;
+     text-shadow:0px 2px 4px beige;}
+ 
+ 
+ h1 {font-family:'Prata', sans-serif;
+ font-size: 64px;
+ font-weight: 400;
+ margin-bottom: 0;}
+ 
+ h3{font-family:'Prata', sans-serif;
+ font-size:24px;
+ font-weight: 400;
+ margin-bottom: 0;}
+ 
+ h6{padding: 22px;
+   margin-bottom: 0px;
+   margin-top: 56px;
+   color:white;
+   border-radius:6px;
+   background:linear-gradient(rgb(89, 157, 196),rgb(220, 228, 245));
+   text-shadow:0px 2px 4px beige;}
+ 
+ p{font-style: italic;
+     font-weight: 600;}
+ 
+ ul{padding:0px;}
+ 
+ li{padding-top:6px ; 
+    bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px; 
+    border-color:#dfdfdf;}
+ 
+ a{color: rgb(89, 157, 196);
+     text-decoration: none;
+     font-style: italic;}
+ 
+ .a1{background-color: black;
+ font-style: italic;
+ color: white;}
+ 
+ footer{padding:16px;
+     text-align: center;}
